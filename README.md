@@ -22,8 +22,8 @@ It helps analyze hospital data using key metrics, PivotTables, and charts.
 * Data Visualization
 
 ## 📊 Dashboard Preview
+<img width="1404" height="620" alt="Screenshot 2026-09-22 123404" src="https://github.com/user-attachments/assets/a05168b4-e366-4486-873f-dbf2164a00f6" />
 
-<img width="1404" height="620" alt="Screenshot 2026-09-22 123404" src="https://github.com/user-attachments/assets/68ebbf59-5834-4415-a5b7-be9ab7972965" />
 
 
 ## 📈 Key Analysis
